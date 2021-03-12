@@ -115,6 +115,13 @@ header a:hover {
   border: 2px solid #2a6592;
 }
 
+/*add new iframe tag stye by nyc0lai (Ion)*/
+#boxes .box iframe {
+  height: 315px;
+  border-radius: 8px;
+  border: 2px solid #2a6592;
+}
+
 #boxes p {
   font-style: italic;
   font-weight: bold;
